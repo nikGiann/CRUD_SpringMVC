@@ -1,0 +1,40 @@
+body{
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+
+table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+
+}
+
+table tr:nth-child(even){background-color: #f2f2f2;}
+
+table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    width: 100%;
+}
+
+a {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+form{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}

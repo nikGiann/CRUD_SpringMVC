@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    
+}
+
+
+h1 {
+    text-align: center;
+    width: 100%;
+}
+
+a {
+    font-weight: bold;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    
+}
+

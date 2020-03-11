@@ -1,0 +1,10 @@
+com\asterixnick\config\DispatcherServletInitializer.class
+com\asterixnick\dao\TrainerDao.class
+com\asterixnick\entities\Trainer.class
+com\asterixnick\config\MyWebAppConfig.class
+com\asterixnick\service\TrainerServiceImpl.class
+com\asterixnick\dao\TrainerDaoImpl.class
+com\asterixnick\service\TrainerService.class
+com\asterixnick\controller\TrainerController.class
+com\asterixnick\config\DatabaseConfig.class
+com\asterixnick\controller\HomeController.class
